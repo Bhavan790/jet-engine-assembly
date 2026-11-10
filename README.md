@@ -22,10 +22,7 @@ A 3D CAD model of a turbojet engine, designed as a multi-part assembly in Autode
 ![Exploded view](exploded.png)
 
 ### Internal layout
-![Isometric view](isometric.png)
-
-### Combustor and turbine (rear view)
-![Combustor close-up](closeup.png)
+![Isometric view](closeup.png)
 
 ### Side view
 ![Side view](side.png)
