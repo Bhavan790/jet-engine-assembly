@@ -45,7 +45,7 @@ A 3D CAD model of a turbojet engine, designed as a multi-part assembly in Autode
 ## Opening the model
 
 1. Download or clone this repository.
-2. Open `cad/00_engine_assembly.iam` in Autodesk Inventor.
+2. Open `jet_engine_assembly.iam` in Autodesk Inventor.
 3. Keep the folder structure unchanged so Inventor can find the linked parts.
 
 No Inventor? Import the STEP file from the `step/` folder into any CAD software (Fusion, SolidWorks, FreeCAD, etc.).
