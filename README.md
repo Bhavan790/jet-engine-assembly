@@ -2,7 +2,7 @@
 
 A 3D CAD model of a turbojet engine, designed as a multi-part assembly in Autodesk Inventor. The model shows the main flow path of a turbojet: air enters at the nose cone, is compressed, burned in the combustor, expands through the turbine, and exits through the nozzle.
 
-![Jet engine assembly](images/assembled.png)
+![Jet engine assembly](assembled.png)
 
 ## Components
 
@@ -19,16 +19,16 @@ A 3D CAD model of a turbojet engine, designed as a multi-part assembly in Autode
 ## Views
 
 ### Exploded view
-![Exploded view](images/exploded.png)
+![Exploded view](exploded.png)
 
 ### Internal layout
-![Isometric view](images/isometric.png)
+![Isometric view](isometric.png)
 
 ### Combustor and turbine (rear view)
-![Combustor close-up](images/closeup.png)
+![Combustor close-up](closeup.png)
 
 ### Side view
-![Side view](images/side.png)
+![Side view](side.png)
 
 ## Tools
 
