@@ -37,7 +37,7 @@ A 3D CAD model of a turbojet engine, designed as a multi-part assembly in Autode
 ```
 .
 ├── images/     # renders and screenshots
-├── cad/        # Inventor files (.iam, .ipt, .ipn)
+├── zip/        # All files (.iam, .ipt, images, .stp)
 ├── step/       # STEP export for use in other CAD software
 └── README.md
 ```
